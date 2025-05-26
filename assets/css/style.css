@@ -52,6 +52,7 @@ body {
 }
 
 .user-city {
+  font-size: var(--p-size);
   color: var(--Green);
   margin-block-end: 1.5rem;
 }
